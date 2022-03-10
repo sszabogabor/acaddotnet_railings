@@ -712,4 +712,7 @@ Public Class Class1
             acTrans.AddNewlyCreatedDBObject(acPoly, True)
         End Using
     End Sub
+    Private Sub
+        ''othing
+    End Sub
 End Class
