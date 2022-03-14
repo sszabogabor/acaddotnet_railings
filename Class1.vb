@@ -713,6 +713,7 @@ Public Class Class1
         End Using
     End Sub
     Private Sub
-        ''othing
+        ''nothing
+
     End Sub
 End Class
